@@ -5,8 +5,7 @@ I am currently seeking new opportunities in Software Engineering roles where I c
 
 
 ### 📚 Project portfolio
-
-Take a look at my Portfolio below, or check out the full list on my portfolio:
+ 
 <p align="left">
   <a href="https://linkedin.com/in/wong-kai-jeng" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kai-jeng" height="30" width="40" />
