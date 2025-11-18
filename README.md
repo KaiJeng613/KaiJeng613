@@ -11,7 +11,7 @@ I am currently seeking new opportunities in Software Engineering roles where I c
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kai-jeng" height="30" width="40" />
   </a>
   <a href="mailto:kaijengre2@gmail.com" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/maildotru.svg" alt="email" height="30" width="40" />
+    <img align="center" src="https://jade-patient-viper-512.mypinata.cloud/ipfs/bafkreifq37xetcez64yf555mvpecitcnoxrguxvhlz2sffhnoy3wz7gepu" alt="email" height="30" width="40" />
   </a>
   <a href="https://github.com/KyleWong613/KJSite/blob/main/README.md" target="_blank">
     <img align="center" src="https://www.svgrepo.com/download/12869/portfolio-outline-symbol.svg" height="30" width="40" />
@@ -19,11 +19,13 @@ I am currently seeking new opportunities in Software Engineering roles where I c
   <a href="https://github.com/KyleWong613/KJSite/blob/main/README.md"></a>
 </p>
 
+<!-- 
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kylewong613&count_private=true&show_icons=true&theme=catppuccin_latte&hide=issues,contribs&line_height=24" height="180">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyleWong613&layout=compact&theme=catppuccin_latte&line_height=25" height="180">
 </p>
-
+ -->
 
 ### 👯 Key Projects & Collaborations
 
