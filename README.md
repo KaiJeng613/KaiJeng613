@@ -25,9 +25,9 @@ I am currently seeking new opportunities in Software Engineering roles where I c
 </p>
 
 
-### 👯 Collaboration
+### 👯 Key Projects & Collaborations
 
-I've been fortunate to collaborate with a range of companies on diverse and impactful projects, including:
+Opportunity to collaborate with a distinguished group of organizationsin below projects:
 - [Resorts World Genting](https://www.rwgenting.com/)
 - [RWG Migrate to Adobe Improves digital experiences for guests](https://business.adobe.com/customer-success-stories/genting-malaysia-case-study.html)
 - [Adobe Experience Cloud](https://business.adobe.com/sg/products/experience-manager/adobe-experience-manager.html)
