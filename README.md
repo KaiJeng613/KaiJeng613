@@ -1,8 +1,10 @@
 # 🙋‍♂️ Hi there, I'm Kyle
+<!-- 
 
 I have developed a diverse range of applications, including web applications, mobile apps, and ETL solutions. 
 I am currently seeking new opportunities in Software Engineering roles where I can leverage my skills and experience to contribute to innovative projects.
 
+ -->
 
 ### 📚 Project portfolio
  
