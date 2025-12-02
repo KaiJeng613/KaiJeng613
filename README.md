@@ -43,12 +43,12 @@ Opportunity to collaborate with a distinguished group of organizationsin below p
 - [VMS Solutions](https://www.vms-solutions.com/en/index.php)
 
 
-### 🛠️ Tools
-
-- Programming: ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat-square), ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square), ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square)
-- Web: ![JavaScript](https://img.shields.io/badge/JavaScript-yellow), ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white), ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white), ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white), ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-- Database: ![SQL Server](https://img.shields.io/badge/SQL_Server-blue?logo=microsoftsqlserver), ![HeidiSQL](https://img.shields.io/badge/HeidiSQL-408a22?style=flat-square&logo=database&logoColor=white)
-, ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+### 🛠️ Tech Stack
+| Category    | Technologies |
+|-------------|--------------|
+| **Programming** | ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat-square) <br> ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) <br> ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square) |
+| **Frontend** | ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) <br> ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white) <br> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) <br> ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) <br> ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) |
+| **Database** | ![SQL Server](https://img.shields.io/badge/SQL_Server-blue?logo=microsoftsqlserver) <br> ![HeidiSQL](https://img.shields.io/badge/HeidiSQL-408a22?style=flat-square&logo=database&logoColor=white) <br> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 
 
 
