@@ -41,9 +41,14 @@ Software engineer with experience delivering end-to-end solutions for hospitalit
 - **Design for operability** – logging, alerting, and runbooks arrive with the first release.
 - **Tight feedback loops** – short iterations, automated QA, and pragmatic documentation to keep teams in sync.
 
-## GitHub at a glance
+## 📊 Github Stats
 ![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaijeng613&show_icons=true&theme=transparent&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaijeng613&theme=transparent&hide_border=true)
+
+## 🏆 Hackathons
+- **Lovable 2025 – Kid Quest Play** · [kid-quest-play.lovable.app](https://kid-quest-play.lovable.app)
+- **Delulu 2025 – Sparkle Path** · [lulu-sparkle-path.lovable.app](https://lulu-sparkle-path.lovable.app)
+- **Cursor 2025 – Prediction Market** · [cursor-2025-prediction-market.vercel.app](https://cursor-2025-prediction-market.vercel.app/)
 
 ## Let’s connect
 - Portfolio walk-throughs and architectural deep dives are available upon request.
