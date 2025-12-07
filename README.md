@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Kyle Wong
 
-Digital product engineer with experience delivering end-to-end solutions for hospitality, financial services, and enterprise automation teams. I design resilient architectures, lead cross-functional squads, and ship polished experiences across web, kiosk, and mobile surfaces.
+Software engineer with experience delivering end-to-end solutions for hospitality, financial services, and enterprise automation teams. I design resilient architectures, lead cross-functional squads, and ship polished experiences across web, kiosk, and mobile surfaces.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/wong-kai-jeng)
 [![Portfolio](https://img.shields.io/badge/Portfolio-18181B?style=flat&logo=firefox&logoColor=white)](https://github.com/KyleWong613/KJSite/blob/main/README.md)
