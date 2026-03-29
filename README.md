@@ -49,6 +49,8 @@ Software engineer with experience delivering end-to-end solutions for hospitalit
 - **Lovable 2025 – Kid Quest Play** · [kid-quest-play.lovable.app](https://kid-quest-play.lovable.app)
 - **Delulu 2025 – Sparkle Path** · [lulu-sparkle-path.lovable.app](https://lulu-sparkle-path.lovable.app)
 - **Cursor 2025 – Prediction Market** · [cursor-2025-prediction-market.vercel.app](https://cursor-2025-prediction-market.vercel.app/)
+- **Build with AI presents : Seedance 2026  – Prediction Market** · [How to Eat Durian Explained
+](https://www.youtube.com/watch?v=jttJIsTUf0Y)
 
 ## Let’s connect
 - Portfolio walk-throughs and architectural deep dives are available upon request.
