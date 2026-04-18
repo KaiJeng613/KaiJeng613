@@ -54,8 +54,7 @@ Software engineer with experience delivering end-to-end solutions for hospitalit
 
 ## Let’s connect
 - Portfolio walk-throughs and architectural deep dives are available upon request.
-- Currently open to senior software engineering or solutions architecture roles (remote or hybrid).
-- Reach me via [LinkedIn](https://linkedin.com/in/wong-kai-jeng) or [email](mailto:kaijengre2@gmail.com) for collaborations, consulting, or speaking opportunities.
+- Reach out to me via [LinkedIn](https://linkedin.com/in/wong-kai-jeng) or [email](mailto:kaijengre2@gmail.com) for collaborations, consulting, or speaking opportunities.
 
 ---
 
