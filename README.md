@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Kyle Wong
+# 👋 Hi there, I'm Kai Jeng
 
 Software engineer with experience delivering end-to-end solutions for hospitality, financial services, and enterprise automation teams. I design resilient architectures, lead cross-functional squads, and ship polished experiences across web, kiosk, and mobile surfaces.
 
